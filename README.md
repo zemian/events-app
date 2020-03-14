@@ -1,5 +1,7 @@
 # events-app
 
+https://auth0.com/blog/beginner-vuejs-tutorial-with-user-login/
+
 ## Project setup
 ```
 npm install
