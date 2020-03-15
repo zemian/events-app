@@ -1,6 +1,9 @@
 # events-app
 
-https://auth0.com/blog/beginner-vuejs-tutorial-with-user-login/
+A Vue Application for Events Management. It integrated with user login using Auth0 integration.
+
+Part 1: https://auth0.com/blog/beginner-vuejs-tutorial-with-user-login/
+Part 2: https://auth0.com/blog/how-to-make-secure-http-requests-with-vue-and-express/
 
 ## Project setup
 ```
